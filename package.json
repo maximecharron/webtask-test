@@ -1,0 +1,11 @@
+{
+  "name": "webtask",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3"
+  }
+}
